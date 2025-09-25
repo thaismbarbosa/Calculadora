@@ -1,4 +1,4 @@
-console.log('Bem-vindo a minha primeira calculadora!');
+console.log('Bem-vindos a minha primeira calculadora!');
 
 let nomeUsuario = prompt('Digite seu nome: ');
 let numero1 = parseInt(prompt('Digite o primeiro número: '));
@@ -36,4 +36,5 @@ console.log('Resultado da divisão: ' + resultado);
 resultado = numero1;
 resultado %= numero2;
 console.log('Resultado do modulo: ' + resultado);
+
 
